@@ -1,7 +1,7 @@
 {
 	"workflowApiVersion": "1.1",
 	"metaData": {
-		"icon": "images/sms.png",
+		"icon": "LinkedIn_logo_initials.png",
 		"category": "message"
 	},
 	"type": "myActivityType",
